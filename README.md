@@ -12,4 +12,4 @@
     
 - [ショートヘア](./src/r.py)
 
-## プログラミングで彼女を作る ![I LOVE kanojo](./images/My\ favorite\ kanojo.png)
+## プログラミングで彼女を作る ![I LOVE kanojo](./images/My favorite kanojo.png)
