@@ -11,7 +11,7 @@
 
 ## 髪(hair)    
 - [ショートヘア](./src/r.py)
-
+- [ロングヘア](./src/long.py)
 ## プログラミングで彼女を作る. ![kanojo](./images/kanojo1.png)
 
 ## 目(eyes)
